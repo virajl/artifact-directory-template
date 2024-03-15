@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/virajl/artifact-directory-template",
+    "project-repository": "https://github.com/YLSphere/DSC180_ethstates.git",
+    "project-website-url": "https://ylsphere.github.io/ethstates_project_website/",
+    "project-website-code": "https://github.com/YLSphere/ethstates_project_website.git"
 }
