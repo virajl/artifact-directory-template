@@ -2,6 +2,5 @@ Title:
 EthStates - Real Estate for real people
 
 Abstract:
-
-This report outlines our investigation and methodology for designing and im- plementing Real Estate transactions on a blockchain. We start by outlining the potentials of Blockchain and why we chose Real Estate(RE) as the topic we want to build our project on in Section 1: Introduction and Context, fol- lowed by an overview of the Technological framework we used in Section 2: Methods, followed by some of the results we achieved in Section 3: Results. We conclude with a brief overview of the progress made while building our project in 4: Conclusion, followed by Limitations and Future Developments in Section 5.
+Envisioning a world where transactions are truly democratized, our project, EthStates, aims to establish an online decentralized marketplace for residential properties. Powered by blockchain technology, Ethstates will empower homeowners and potential buyers to engage in secure, transparent, and fair transactions without the need for intermediaries. Our platform focuses on privacy, inclusivity, and innovation, allowing users to buy and sell properties in a trustless environment. By harnessing the power of smart contracts, Ethstates will redefine the dynamics of a real estate transaction, and continue to encourage community-driven governance, making it accessible, equitable, and resilient for all.
 
