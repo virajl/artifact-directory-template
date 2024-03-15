@@ -1,5 +1,7 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+EthStates - Real Estate for real people
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+
+This report outlines our investigation and methodology for designing and im- plementing Real Estate transactions on a blockchain. We start by outlining the potentials of Blockchain and why we chose Real Estate(RE) as the topic we want to build our project on in Section 1: Introduction and Context, fol- lowed by an overview of the Technological framework we used in Section 2: Methods, followed by some of the results we achieved in Section 3: Results. We conclude with a brief overview of the progress made while building our project in 4: Conclusion, followed by Limitations and Future Developments in Section 5.
+
